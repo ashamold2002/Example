@@ -7,3 +7,4 @@ string[] FriendsName = new string[]{"asha","shneha","laevi","priya"};
 foreach(string str in FriendsName){
     Console.WriteLine(str);
 }
+Console.WriteLine("Asha");
